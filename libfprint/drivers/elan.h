@@ -44,7 +44,7 @@
 
 /* times to retry reading calibration status during one session
  * generally prevents calibration from looping indefinitely */
-#define ELAN_CALIBRATION_ATTEMPTS 10
+#define ELAN_CALIBRATION_ATTEMPTS 50
 
 /* min and max frames in a capture */
 #define ELAN_MIN_FRAMES 7
